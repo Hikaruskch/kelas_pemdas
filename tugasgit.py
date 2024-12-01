@@ -1,5 +1,6 @@
 print("Rahadrin Muhammad Hikaru Faqath Sechan")
 print("15-2023-128")
+print("Informaatika Itenas")
 data_panen = {
     'lokasi1':{
         'nama_lokasi':'Kebun A',
