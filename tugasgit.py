@@ -62,7 +62,7 @@ for lokasi, hasil in data_panen.items():
 print ("Hasil Panen Padi:", padi)
 print ("Hasil Panen Kedelai:",kedelai)
 
-# Soal no 5 and 6 gitu
+# Soal no 5 and 6
 for lokasi, hasil in data_panen.items():
     padi = hasil ['hasil_panen']['padi']
     jagung = hasil ['hasil_panen']['jagung']
